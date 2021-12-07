@@ -1,0 +1,26 @@
+package day01_02_Variables;
+
+public class C02_Variables {
+
+	public static void main(String[] args) {
+		
+		String okul="Yildiz Koleji";
+		
+		//String okul="Mehmet koleji ";
+		
+		//int okul=20 ;
+		
+		okul= "Mehmet koleji";
+		
+		System.out.println(okul);
+		
+	
+		System.out.println("okul adi :" + okul );
+		System.out.println("okul adi :" + "okul" );
+		
+		
+	} 
+	
+	
+
+}
